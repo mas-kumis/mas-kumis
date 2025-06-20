@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello World! I'm Wildan Nurhansyah, nice to meet you 👋 👋
+
+"Full-stack developer passionate about clean code and innovation"
+- 🔭 I’m Freelance Web Development working with name **Bung Wil Dev**
+- 🌱 I’m currently learning React Native
+- ⚡ Fun fact: Im a Self Learner Programmer
+
+
 
 <!--
 **mas-kumis/mas-kumis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
