@@ -3,6 +3,7 @@
 - 🔭 I’m a Freelance Web Developer building modern, fast, and responsive websites under the name Bung Wil Dev.
 - 🌍 Helping individuals, small businesses, and startups turn ideas into real websites that work.
 - 🌱 Currently challenging myself to build complete websites in just 2 days — rapid, focused, and result-driven.
+- 🌱 Currently learning golang for backend web development.
 - ⏱️ Coding 6+ hours/day to sharpen skills and ship real projects fast.
 - ⚡ 100% Self-Taught Programmer from Indonesia, driven by curiosity and persistence.
 - 🧠 Always learning — currently focused on mastering Next.js, Supabase, Tailwind CSS, and building fullstack apps.
